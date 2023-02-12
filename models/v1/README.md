@@ -1,24 +1,24 @@
 ## Talking Head (v1)
 Based on previous projects with machined components. The goal is to reduce production time.
 
-<img alt="Original render with dimensions" src="./images/Dimensions.png" width="80%" />
+<img alt="Original render with dimensions" src="./images/Dimensions.png" width="60%" />
 <br/>
-<img alt="Exploded view" src="images/Exploded.png" width="80%"/>
+<img alt="Exploded view" src="images/Exploded.png" width="60%"/>
 <br/>
 <i>Renders from <a href="#Citations">[Tang21]</a></i>
 <br/>
 
-<img alt="Original render with dimensions" src="./images/Photos.png" width="55%" />
-<img alt="Exploded view" src="images/PhotoHeadset.png" width="25%"/>
+<img alt="Original render with dimensions" src="./images/Photos.png" width="36%" />
+<img alt="Exploded view" src="images/PhotoHeadset.png" width="17%"/>
 <br/>
 <i>Photos from <a href="#Citations">[Tang21]</a></i>
 <br/>
 
-<img alt="Instructions to remove cranium" src="images/PrototypeManualHead.png" width="80%" />
+<img alt="Instructions to remove cranium" src="images/PrototypeManualHead.png" width="60%" />
 <br/>
-<img alt="Instructions to insert ears" src="images/PrototypeManualEar.png" width="80%"/>
+<img alt="Instructions to insert ears" src="images/PrototypeManualEar.png" width="60%"/>
 <br/>
-<img alt="Instructions to use fasteners" src="images/PrototypeManualPins.png" width="80%" />
+<img alt="Instructions to use fasteners" src="images/PrototypeManualPins.png" width="60%" />
 <br/>
 <i>Figures from <a href="#Citations">[Yue22]</a></i>
 <br/>

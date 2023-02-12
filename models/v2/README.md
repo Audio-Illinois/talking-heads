@@ -1,9 +1,9 @@
 ## Talking Head (v2)
 Based on v1, the key motivations are increased robustness and usability.
 
-<img alt="Front view of head prototype" src="images/PrototypeFront.png" width="25%" />
-<img alt="Back view of head prototype" src="images/PrototypeBack.png" width="27.5%" />
-<img alt="Profile view of head prototype" src="images/PrototypeSide.png" width="32.5%" />
+<img alt="Front view of head prototype" src="images/PrototypeFront.png" width="15%" />
+<img alt="Back view of head prototype" src="images/PrototypeBack.png" width="17%" />
+<img alt="Profile view of head prototype" src="images/PrototypeSide.png" width="19%" />
 
 ### Assembly-wide features
 - All but a few parts are 3D printed

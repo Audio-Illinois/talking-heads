@@ -18,7 +18,8 @@ Based on v1, the key motivations are increased robustness and usability.
 | Head | - Realistic proportions and ear-to-ear distance <br/> - Can be filled with acoustically absorptive material for increased realism <br/> - Channels for microphone cables | [head](./solids/HeadBase.stl), [face](./solids/Face.stl), [cranium](./solids/HeadScalp.stl) |
 | Mouth | - Cavity for loudspeaker <br/> - Optional mouth cover/shield <br/> - Channels for loudspeaker cables  | [box](./solids/MouthBox.stl), [cover](./solids/MouthCover.stl) |
 
-### Citations
+### References
+Note: do not cite, this report is not indexed.
 ```bibtex
 @misc{Yue22,
     author  = {Xinran Yue},

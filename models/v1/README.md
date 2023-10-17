@@ -34,7 +34,8 @@ Based on previous projects with machined components. The goal is to reduce produ
 | Head | - Realistic proportions and ear-to-ear distance <br/> - Can be filled with acoustically absorptive material for increased realism <br/> - Channels for microphone cables |  |
 | Mouth | - Cavity for loudspeaker <br/> - Optional mouth cover/shield <br/> - Channels for loudspeaker cables  |  |
 
-### Citations
+### References
+Note: do not cite, these reports are not indexed.
 ```bibtex
 @misc{Tang21,
     author  = {Zhihao Tang},

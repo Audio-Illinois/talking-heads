@@ -30,12 +30,12 @@ Based on previous projects with machined components. The goal is to reduce produ
 ### Per-part features
 | Part(s) | Feature(s) | 3D print file(s) |
 | --- | --- | --- |
-| Ears | - Cavity for lavalier microphones <br/> - Realistic shape for binaural recordings |  |
-| Head | - Realistic proportions and ear-to-ear distance <br/> - Can be filled with acoustically absorptive material for increased realism <br/> - Channels for microphone cables |  |
-| Mouth | - Cavity for loudspeaker <br/> - Optional mouth cover/shield <br/> - Channels for loudspeaker cables  |  |
+| Ears | - Cavity for lavalier microphones <br/> - Realistic shape for binaural recordings | See v2 |
+| Head | - Realistic proportions and ear-to-ear distance <br/> - Can be filled with acoustically absorptive material for increased realism <br/> - Channels for microphone cables | See v2 |
+| Mouth | - Cavity for loudspeaker <br/> - Optional mouth cover/shield <br/> - Channels for loudspeaker cables  | See v2 |
 
 ### References
-Note: do not cite, these reports are not indexed.
+⚠ These are non-indexed course materials. Available upon request.
 ```bibtex
 @misc{Tang21,
     author  = {Zhihao Tang},

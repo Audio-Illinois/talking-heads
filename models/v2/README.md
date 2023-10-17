@@ -19,7 +19,7 @@ Based on v1, the key motivations are increased robustness and usability.
 | Mouth | - Cavity for loudspeaker <br/> - Optional mouth cover/shield <br/> - Channels for loudspeaker cables  | [box](./solids/MouthBox.stl), [cover](./solids/MouthCover.stl) |
 
 ### References
-Note: do not cite, this report is not indexed.
+⚠ These are non-indexed course materials. Available upon request.
 ```bibtex
 @misc{Yue22,
     author  = {Xinran Yue},

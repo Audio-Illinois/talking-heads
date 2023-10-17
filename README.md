@@ -1,10 +1,9 @@
 # Talking Heads
-`This repo is for internal use`
 
 Acoustic head simulators that:
-- Record spatial audio with realistic interaural differences
+- Record spatial audio with realistic spatial cues
 - Can "talk" using loudspeakers
-- Can turn and nod without falling apart
+- Can be reliably moved, tilted, or otherwise manipulated
 - Are cheaply and quickly produced
 
 ### Designs

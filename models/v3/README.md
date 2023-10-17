@@ -19,7 +19,7 @@ Based on v1 and v2, the motivation is improved robustness without non-printed pa
 
 
 ### References
-Note: do not cite, these reports are not indexed.
+⚠ These are non-indexed course materials. Available upon request.
 ```bibtex
 @misc{Lu23,
     author  = {Austin Lu},
